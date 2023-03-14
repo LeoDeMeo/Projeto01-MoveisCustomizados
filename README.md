@@ -2,7 +2,7 @@
 
 # 🚀 Rocketseat Explorer - Projeto 01 🚀
 
-![Screenshot 2023-03-14 172604.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b9a475cc-be57-4fba-a43d-ac8caa44f8ab/Screenshot_2023-03-14_172604.png)
+![Screenshot 2023-03-14 172604.png](https://user-images.githubusercontent.com/125153745/225134703-5eb1b84d-7b5a-4651-bdd8-b34d162623b6.png)
 
 ## Projeto 01 - Móveis Customizados
 
