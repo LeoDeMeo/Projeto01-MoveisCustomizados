@@ -6,13 +6,9 @@
 
 ## Projeto 01 - Móveis Customizados
 
----
-
 Primeiro projeto do curso Explorer da Rocketseat com o intuito de desenvolver o conhecimento sobre tecnologias Web.
 
 ## Tecnologias Utilizadas
-
----
 
 - HTML5
 - CSS3
